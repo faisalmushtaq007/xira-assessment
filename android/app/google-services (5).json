@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "129681567694",
+    "project_id": "xira-assessment",
+    "storage_bucket": "xira-assessment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129681567694:android:2e336f88afb65205b2459f",
+        "android_client_info": {
+          "package_name": "com.example.xira_assessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129681567694-24i9ou5kbdl1uufe90hv7e7q4ep12p9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xira_assessment",
+            "certificate_hash": "216e2b5cfa73a24c977716129f4ee9358c79504e"
+          }
+        },
+        {
+          "client_id": "129681567694-5089vpcqs59sd5364h8mmmp2nl8l1o6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE9-5BVwNhJRzHiVweut9L_2mX4QfuXlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129681567694-5089vpcqs59sd5364h8mmmp2nl8l1o6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
